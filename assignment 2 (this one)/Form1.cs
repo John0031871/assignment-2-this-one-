@@ -16,5 +16,10 @@ namespace assignment_2__this_one_
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
